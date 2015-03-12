@@ -1,0 +1,9 @@
+<snippet>
+	<description>Private</description>
+    <content>
+<![CDATA[Private ${1:ident} := ${2:expr}
+]]></content>
+    <tabTrigger>Private</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+	<description>Do... While</description>
+    <content>
+<![CDATA[Do While ${1:/* condition */}
+${2:/* code */}
+EndDo]]></content>
+    <tabTrigger>Do</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <description>For... Next</description>
+    <content><![CDATA[For ${1:n}:= 1 to ${2:n}
+${3:/* code */}
+next]]></content>
+    <tabTrigger>For</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<description>If... Else... EndIf</description>
+    <content><![CDATA[If (${1:expr})
+	${0:// True }
+Else
+	${2:// False }
+EndIf]]></content>
+    <tabTrigger>Ife</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>

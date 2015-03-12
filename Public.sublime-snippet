@@ -1,0 +1,9 @@
+<snippet>
+	<description>Public</description>
+    <content>
+<![CDATA[Public ${1:ident} := ${2:expr}
+]]></content>
+    <tabTrigger>Public</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+	<description>Static</description>
+    <content>
+<![CDATA[Static ${1:ident} := ${2:expr}
+]]></content>
+    <tabTrigger>Static</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>
+

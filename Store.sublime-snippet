@@ -1,0 +1,8 @@
+<snippet>
+	<description>Store</description>
+    <content>
+<![CDATA[Store ${1:ident} To ${2:expr}
+]]></content>
+    <tabTrigger>Store</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>

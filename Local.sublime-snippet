@@ -1,0 +1,9 @@
+<snippet>
+	<description>Local</description>
+    <content>
+<![CDATA[Local ${1:ident} := ${2:expr}
+]]></content>
+    <tabTrigger>Local</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>
+

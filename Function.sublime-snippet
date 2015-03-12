@@ -1,0 +1,10 @@
+<snippet>
+	<description>Function</description>
+		<content>
+<![CDATA[Function ${1:name}(${2:param})
+   ${3:body}
+   Return(${4:.T.})$0
+]]></content>
+		<tabTrigger>Fun</tabTrigger>
+		<scope>source.advpl</scope>
+</snippet>
