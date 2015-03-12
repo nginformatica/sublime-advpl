@@ -45,6 +45,14 @@
 		</dict>
 		<dict>
 			<key>comment</key>
+			<string>Keywords for Object Orientation</string>
+			<key>match</key>
+			<string>(?i)\b(?:Class|EndClass|Method|Constructor|From)\b</string>
+			<key>name</key>
+			<string>keyword.control.advpl</string>
+		</dict>
+		<dict>
+			<key>comment</key>
 			<string>Keywords</string>
 			<key>match</key>
 			<string>(?i)\b(?:Catch|Finally|Try|Throw)\b</string>
